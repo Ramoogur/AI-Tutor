@@ -29,6 +29,12 @@ MathWhiz is a web application designed to help students practice math with inter
 - No backend or external dependencies are required
 - Account types include 'student' and 'parent' with different views and functionality
 
+## Deployment
+- The application is configured for Vite deployment
+- Use `npm run dev` for development server
+- Use `npm run build` for production build
+- Use `npm run preview` to preview production build
+
 ## Special Requirements
 - Login and registration forms should maintain consistent UI between components
 - Account type selector should be present in both Login and Register components
